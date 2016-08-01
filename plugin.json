@@ -1,0 +1,30 @@
+{
+  "author":"SUPINFO AppFactory"
+  ,"pluginName":"Text WYSIWYG"
+  ,"pluginDescription":"The Text/WYSIWYG plugin is much more than just text. You can also embed images, videos, and forms. You can even use it as an HTML editor to customize the plugin however you want."
+  ,"supportEmail":"supinfoappfactory@supinfo.com"
+  ,"supportSite":"http://support.appdocumentation.com/knowledge-base/text-wysiwyg-tutorial/"
+  ,"pluginIcon":"icon.png"
+  ,"licenseKey": "a4sd6-as654asd6as545a65s4d6a-65asd564a",
+  "offlineModeEnabled": true
+  ,"control":{
+    "content":{
+      "enabled":true
+    }
+    , "design":{
+      "enabled":true
+    }
+    , "settings":{
+      "enabled":false
+    }
+  }
+  ,"widget":{
+
+  },
+  "features":[
+
+   ],
+   "languages":[
+      "en"
+   ]
+}
